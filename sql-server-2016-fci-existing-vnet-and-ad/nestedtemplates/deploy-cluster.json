@@ -102,7 +102,7 @@
     },
     "imageOffer": {
       "type": "string",
-      "defaultValue": "SQL2016SP1-WS2016"
+      "defaultValue": "SQL2016SP1-WS2016-BYOL"
     },
     "imageSKU": {
       "type": "string",
