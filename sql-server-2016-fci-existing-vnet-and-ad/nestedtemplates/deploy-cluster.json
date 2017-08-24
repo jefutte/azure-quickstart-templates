@@ -102,7 +102,7 @@
     },
     "imageOffer": {
       "type": "string",
-      "defaultValue": "SQL2016SP1-WS2016-BYOL"
+      "defaultValue": "SQL2016SP1-WS2016"
     },
     "imageSKU": {
       "type": "string",
@@ -110,7 +110,7 @@
     },
     "imageVersion": {
       "type": "string",
-      "defaultValue": "latest"
+      "defaultValue": "13.0.500110"
     },
     "_artifactsLocation": {
       "type": "string"
